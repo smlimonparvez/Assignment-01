@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    width: 100%;
+    height: 625px;
+}
+.container{
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.info{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 25%;
+}
+.info h1{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+.info p{
+    color: aliceblue;
+    margin-bottom: 35px;
+}
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px 30px;
+    background: tomato;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+}
+.info-2{
+    text-align: center;
+    width: 100%;
+    padding-top: 65px;
+}
+.info-2 h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.info-2 p{
+    color:rgb(175, 175, 175) ;
+}
+.flex-item{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.box-item{
+    width: 120px;
+    height: 100px;
+    background-color: lightgray;
+    box-sizing: border-box;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.box-item p{
+    text-align: center;
+    margin-top: 36px;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(112, 112, 112) ;
+}
+#border-box{
+    border: 2px solid red;
+    background-color: rgb(255, 238, 238);
+}
+#border-box p{
+    color: red;
+}
+.input-field{
+    border-bottom: 1px solid rgb(175, 175, 175);
+    width: 625px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.input-field p{
+    text-align: center;
+    color: rgb(175, 175, 175);
+    margin-bottom: 10px;
+}
+.center-button{
+    margin-top: 50px;
+    margin-left: 590px;
+}
+.flex-item-2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 235px;
+}
+.box-item-2{
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+.box-item-2 img{
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.box-item-2 p{
+    margin-left: 25px;
+    margin-right: 5px;
+    justify-content: justify;
+}
+.box-item-2 h3{
+    margin-left: 25px;
+}
+#box-1{
+    background-color: rgb(237, 245, 246);
+}
+#box-2{
+    background-color: rgb(255, 238, 238);
+}
+#box-3{
+    background-color: rgb(255, 244, 214);
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+   
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.half-width p{
+    color: rgb(175, 175, 175) ;
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+.flex-item-3{
+    display: flex;
+}
+.link-button-2{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px 40px;
+    background: tomato;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+}
+.email-box{
+    width: 750px;
+    height: 170px;
+    box-sizing: border-box;
+    background-color: rgb(255, 244, 214) ;
+    margin-left: 320px;
+}
+.email{
+    height: 40px;
+    width: 250px;
+    background-color: lightgray;
+    border: hidden;
+    margin-top: 60px;
+    margin-left: 180px;
+    border-radius: 5px;
+}
+.button{
+    height: 42px;
+    width: 120px;
+    background-color: rgb(255, 89, 89);
+    border: hidden;
+    border-radius: 5px;
+    color: aliceblue;
+}
+footer{
+    width: 100%;
+    background-color: black;
+    height: 150px;
+}
+footer h2{
+    color: rgb(255, 89, 89);
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 15px;
+}
